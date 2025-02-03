@@ -1,21 +1,22 @@
 {
   "positions":[
-  {
-    "name": "bird",
-    "id": "01",
-    "type": "position",
-    "tags": ["L-Basing"],
-    "thumbnail_url": null,
-  "url": "positions/bird/bird_data.json"    
-  },
-  {
-    "name": "chair",
-    "id": "02",
-    "type": "position",
-    "tags": ["L-Basing"],
-    "thumbnailURL": null,
-    "url": "positions/chair/chair_data.json"
-  }],
+    {
+      "name": "bird",
+      "id": "01",
+      "type": "position",
+      "tags": ["L-Basing"],
+      "thumbnail_url": null,
+      "url": "positions/bird/bird_data.json"
+    },
+   {
+      "name": "chair",
+      "id": "02",
+      "type": "position",
+      "tags": ["L-Basing"],
+      "thumbnailURL": null,
+      "url": "positions/chair/chair_data.json"
+    }
+  ],
   "transistions":[
   {
     "name": "Bird to Chair",

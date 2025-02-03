@@ -6,7 +6,7 @@
     "type": "position",
     "tags": ["L-Basing"],
     "thumbnail_url": null,
-    "url": "positions/bird/bird_data.json"
+    "url": "positions/bird/bird_data.json",
   },
   {
     "name": "chair",
@@ -14,7 +14,7 @@
     "type": "position",
     "tags": ["L-Basing"],
     "thumbnailURL": null,
-    "url": "positions/chair/chair_data.json"
+    "url": "positions/chair/chair_data.json",
   },
   {
     "name": "Bird to Chair",
@@ -22,9 +22,9 @@
     "type": "transition",
     "tags": ["L-Basing"],
     "thumbnailURL": null,
-    "url": "positions/chair/chair_data.json"
+    "url": "positions/chair/chair_data.json",
     "fromPositionID": "01",
-    "toPositionID": "02"
+    "toPositionID": "02",
   }
 ]
 }

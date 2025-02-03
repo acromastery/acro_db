@@ -1,0 +1,28 @@
+[
+  {
+    "name": "bird",
+    "id": "01",
+    "type": "position",
+    "tags": ["L-Basing"],
+    "thumbnail_url": null,
+    "url": "positions/bird/bird_data.json"
+  }
+  {
+    "name": "chair",
+    "id": "02",
+    "type": "position",
+    "tags": ["L-Basing"],
+    "thumbnailURL": null,
+    "url": "positions/chair/chair_data.json"
+  }
+  {
+    "name": "Bird to Chair",
+    "id": "02",
+    "type": "transition",
+    "tags": ["L-Basing"],
+    "thumbnailURL": null,
+    "url": "positions/chair/chair_data.json"
+    "fromPositionID": "01",
+    "toPositionID": "02".
+  }
+]

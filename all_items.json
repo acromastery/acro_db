@@ -17,7 +17,7 @@
       "url": "positions/chair/chair_data.json"
     }
   ],
-  "transistions":[
+"transitions":[
   {
     "name": "Bird to Chair",
     "id": "02",

@@ -5,7 +5,7 @@
       "id": "01",
       "type": "position",
       "tags": ["L-Basing"],
-      "thumbnail_url": null,
+      "thumbnail_url": "undef",
       "url": "positions/bird/bird_data.json"
     },
    {
@@ -13,7 +13,7 @@
       "id": "02",
       "type": "position",
       "tags": ["L-Basing"],
-      "thumbnailURL": null,
+      "thumbnailURL": "undef",
       "url": "positions/chair/chair_data.json"
     }
   ],
@@ -23,7 +23,7 @@
     "id": "02",
     "type": "transition",
     "tags": ["L-Basing"],
-    "thumbnailURL": null,
+    "thumbnailURL": "undef",
     "url": "positions/chair/chair_data.json",
     "fromPositionID": "01",
     "toPositionID": "02"
